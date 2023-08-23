@@ -130,7 +130,7 @@ li#home>a:hover::after {
     color: #333;
     font-weight:600;
     display: block;
-    padding: 5px 0;
+    padding: 5px;
 }
 
 
